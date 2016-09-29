@@ -108,6 +108,6 @@ Using git and GitHub can be challenging, and you'll inevitably run into issues. 
 To practice using these basic commands, see [exercise-1](exercise-1).
 
 Breakfast
-    - Scrambled eggs with spinish mushrooms and tomatoes
-    - Fried Rice
-    - Chocolate Protein
+- Scrambled eggs with spinish mushrooms and tomatoes
+- Fried Rice
+- Chocolate Protein
